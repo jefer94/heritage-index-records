@@ -24,3 +24,6 @@
 conftest.py
 __pycache__/
 .pytest_cache/
+
+# PDM
+.pdm.toml
