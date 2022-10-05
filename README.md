@@ -1,0 +1,15 @@
+# Records of Heritage Index
+
+- [2022](https://github.com/jefer94/heritage-index-records/blob/master/records/2019.ipynb)
+- [2021](https://github.com/jefer94/heritage-index-records/blob/master/records/2019.ipynb)
+- [2020](https://github.com/jefer94/heritage-index-records/blob/master/records/2019.ipynb)
+- [2019](https://github.com/jefer94/heritage-index-records/blob/master/records/2019.ipynb)
+- [2018](https://github.com/jefer94/heritage-index-records/blob/master/records/2019.ipynb)
+- [2017](https://github.com/jefer94/heritage-index-records/blob/master/records/2019.ipynb)
+- [2016](https://github.com/jefer94/heritage-index-records/blob/master/records/2019.ipynb)
+- [2015](https://github.com/jefer94/heritage-index-records/blob/master/records/2019.ipynb)
+- [2014](https://github.com/jefer94/heritage-index-records/blob/master/records/2019.ipynb)
+- [2013](https://github.com/jefer94/heritage-index-records/blob/master/records/2019.ipynb)
+- [2012](https://github.com/jefer94/heritage-index-records/blob/master/records/2019.ipynb)
+- [2011](https://github.com/jefer94/heritage-index-records/blob/master/records/2019.ipynb)
+- [2010](https://github.com/jefer94/heritage-index-records/blob/master/records/2019.ipynb)
